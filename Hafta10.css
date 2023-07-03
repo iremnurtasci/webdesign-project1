@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=swap');
+
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background-color: #000000;
+	font-family: Barlow;
+	text-align: center;
+
+}
+div{
+	border: 1px solid #000000;
+}
+
+h1,h2,h3{
+	font-family: Rubik Pixels;
+}
+iframe{
+	border: 1px solid #000000;
+	width: 840px; 
+	height: 450px; 
+	frame-border: 0px; 
+	margin-height: 0px;  
+	margin-width: 0px;
+}
+
+#int1{
+	background-color: #DA0606;
+}
+
+#menu{
+	float: left;
+	width: 30%;
+	height: 90%;
+	border: none;
+	background-color: #000000;
+
+	
+}
+
+.dikeymenu {
+	width: 70%;
+	display: inline-block;
+	padding: 7px 20px;
+	background-color: #F9EA07;
+	margin-bottom: 5px;
+	margin-top: 10px;
+	border: none;
+	color: #000000;
+	text-align: left;
+}
+
+.dikeymenu:hover{
+	background-color: #FF5733;
+    color: #000000
+}
+
+#int3{
+	background-color: #F9EA07;
+	margin-left: 30%;
+	text-align: left;
+	padding: 30px;
+
+}
+
+.icbuton {
+	padding: 7px 20px;
+	background-color: #FF5733;
+	margin-bottom: 2px;
+	border-radius: 10px;
+	border: none;
+	color: #000000;
+	
+}
+.icbuton:hover{
+	background-color: #57FCFF;
+    color: #000000
+}
+
+.metinici:hover{
+	background-color: #FF5733;
+    color: #000000
+}
+
+#int4{
+	clear: both;
+	background-color: #DA0606;
+	height: 50px;
+}
+
+
